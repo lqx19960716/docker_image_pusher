@@ -2,4 +2,5 @@
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
 # --platform=linux/arm64 xiaoyaliu/alist
-vllm/vllm-openai:v0.32.0-ubuntu2404
+# vllm/vllm-openai:v0.32.0-ubuntu2404
+ghcr.nju.edu.cn/tencentcloud/octop:latest

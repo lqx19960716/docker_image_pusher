@@ -3,4 +3,4 @@
 # xhofe/alist:latest
 # --platform=linux/arm64 xiaoyaliu/alist
 # vllm/vllm-openai:v0.32.0-ubuntu2404
-ghcr.nju.edu.cn/tencentcloud/octop:latest
+python:3.11-bookworm
